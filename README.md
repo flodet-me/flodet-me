@@ -11,9 +11,9 @@
 - 💻 &nbsp; C# | Python | Java
 - 📒 &nbsp; ASP.NET Core | Spring Boot
 - 🌐 &nbsp; Angular
-- 🛢 &nbsp; MSSQL | Redis | MySQL | MongoDB
+- 🛢 &nbsp; MSSQL | Redis | MySQL
 - 🔧 &nbsp; Git | Markdown
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanferten&show_icons=true)](https://github.com/AVS1508)
+[![Nanferten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanferten&show_icons=true)](https://github.com/AVS1508)
