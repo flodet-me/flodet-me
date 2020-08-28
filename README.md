@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Nanferten/Nanferten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Aditya.</h2>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Working as a Software Engineer at Atos.
+- 🌱 &nbsp; Learning more about Software Architecture, Cloud native Development and Microservices.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C# | Python | Java
+- 📒 &nbsp; ASP.NET Core | Spring Boot
+- 🌐 &nbsp; Angular
+- 🛢 &nbsp; MSSQL | Redis | MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown
+
+<br/>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanferten&show_icons=true)](https://github.com/AVS1508)
