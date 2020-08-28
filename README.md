@@ -16,4 +16,4 @@
 
 <br/>
 
-[![Nanferten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanferten&show_icons=true)](https://github.com/AVS1508)
+[![Nanferten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanferten&show_icons=true)](https://github.com/Nanferten)
