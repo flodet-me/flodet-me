@@ -2,7 +2,7 @@
 
 [![Nanferten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanferten&show_icons=true)](https://github.com/Nanferten)
 
-<h3> 🤖 About Me </h3>
+<h3> 🤖 About Me: 🚲🏍🚀🛰🌍 </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Software Engineer at Atos.
