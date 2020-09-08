@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Florian.</h2>
 
+[![Nanferten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanferten&show_icons=true)](https://github.com/Nanferten)
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -16,5 +18,5 @@
 
 <br/>
 
-[![Nanferten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanferten&show_icons=true)](https://github.com/Nanferten)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanferten&layout=compact)](https://github.com/Nanferten)
