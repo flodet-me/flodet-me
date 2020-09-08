@@ -13,8 +13,9 @@
 - 💻 &nbsp; C# | Python | Java
 - 📒 &nbsp; ASP.NET Core | Spring Boot
 - 🌐 &nbsp; Angular
+- ☁ &nbsp; Azure
 - 🛢 &nbsp; MSSQL | Redis | MySQL
-- 🔧 &nbsp; Git | Markdown
+- 🔧 &nbsp; Git | Markdown | UML
 
 <br/>
 
