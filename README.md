@@ -4,7 +4,6 @@
 
 <h3> 🤖 About Me: 🚲🏍🚀🛰🌍 </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Software Engineer at Atos.
 - 🌱 &nbsp; Learning more about Software Architecture, Cloud native Development and Microservices.
 
