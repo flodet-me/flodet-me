@@ -9,12 +9,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Python | Java
+- 💻 &nbsp; C# | Typescript | Java | Python 
 - 📒 &nbsp; ASP.NET Core | Spring Boot
 - 🌐 &nbsp; Angular
 - ☁ &nbsp; Azure
 - 🛢 &nbsp; MSSQL | Redis | MySQL | PostgreSQL
-- 🔧 &nbsp; Git | Markdown | UML
+- 🔧 &nbsp; Git | Markdown | UML | Azure DevOps
 
 <br/>
 
