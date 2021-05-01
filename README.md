@@ -1,7 +1,5 @@
 <h2> Hey there! I'm Florian.</h2>
 
-[![Nanferten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nanferten&show_icons=true)](https://github.com/Nanferten)
-
 <h3> 🤖 About Me: 🚲🏍🚀🛰🌍 </h3>
 
 - 💼 &nbsp; Working as a Software Engineer at Atos.
@@ -15,8 +13,3 @@
 - ☁ &nbsp; Azure
 - 🛢 &nbsp; MSSQL | Redis | MySQL | PostgreSQL
 - 🔧 &nbsp; Git | Markdown | UML | Azure DevOps
-
-<br/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanferten&layout=compact)](https://github.com/Nanferten)
