@@ -2,8 +2,8 @@
 
 <h3> 🤖 About Me: 🚲🏍🚀🛰🌍 </h3>
 
-- 💼 &nbsp; Working as a Software Engineer at Atos.
-- 🌱 &nbsp; Learning more about Software Architecture, Cloud native Development and Microservices.
+- 💼 &nbsp; Working as a Software Engineer at Eviden.
+- 🌱 &nbsp; Learning more about Software Architecture, Secure Software Engineering and Quantum Software Engineering.
 
 <h3>🛠 Tech Stack</h3>
 
